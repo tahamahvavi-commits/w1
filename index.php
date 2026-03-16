@@ -1,12 +1,4 @@
-<html><head><meta charset="UTF-8" class="aside-ckTesqoP"/><link rel="stylesheet" href="styles.css" class="aside-gqnAIRHRPSb"/><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" class="button-DEQDeev"/><meta name="referrer" content="no-referrer" class="holder-UrJFCSunxbCx"/><style> @import url('https://fonts.googleapis.com/css2?family=Ysabeau+Office:ital,wght@0,1..1000;1,1..1000&display=swap'); html,body{overflow-x: hidden;} *{margin:0;padding:0;} *::-webkit-scrollbar { background-color: #e70000; border-radius: 23px; } *::-webkit-scrollbar-thumb { background-color: #c1c984; border-radius: 23px; border: 1px solid #e70000; } a{text-decoration:none} p,li{text-indent: calc(30vw/var(--resizer)*100)} ol{padding-left: calc(30vw/var(--resizer)*100)} h2{text-align: center;} input{outline: none;} #close:checked ~ section {display: none !important;} input::placeholder {color: inherit;} :root { --resizer: 1440; } @media screen and (max-width:414px) { :root { --resizer: 350; } } </style><title>tutrion.xyz</title><!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YTP08B4056"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YTP08B4056');
-</script>
+<html><head><meta charset="UTF-8" class="aside-ckTesqoP"/><link rel="stylesheet" href="styles.css" class="aside-gqnAIRHRPSb"/><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" class="button-DEQDeev"/><meta name="referrer" content="no-referrer" class="holder-UrJFCSunxbCx"/><style> @import url('https://fonts.googleapis.com/css2?family=Ysabeau+Office:ital,wght@0,1..1000;1,1..1000&display=swap'); html,body{overflow-x: hidden;} *{margin:0;padding:0;} *::-webkit-scrollbar { background-color: #e70000; border-radius: 23px; } *::-webkit-scrollbar-thumb { background-color: #c1c984; border-radius: 23px; border: 1px solid #e70000; } a{text-decoration:none} p,li{text-indent: calc(30vw/var(--resizer)*100)} ol{padding-left: calc(30vw/var(--resizer)*100)} h2{text-align: center;} input{outline: none;} #close:checked ~ section {display: none !important;} input::placeholder {color: inherit;} :root { --resizer: 1440; } @media screen and (max-width:414px) { :root { --resizer: 350; } } </style><title>tutrion.xyz</title>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-0LY0HY7L01"></script>
 <script>
